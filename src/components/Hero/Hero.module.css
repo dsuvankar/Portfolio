@@ -42,12 +42,14 @@
 
 .description {
   font-size: 20px;
-  font-family: var(--font-roboto);
+  font-family: "Trebuchet MS", sans-serif;
   margin-bottom: 22px;
+  font-style: obliqu;
 }
 
 .contactBtn {
   text-decoration: none;
+  margin-right: 20px;
   text-align: center;
   background-color: var(--color-primary);
   color: var(--color-text);
@@ -56,6 +58,19 @@
   font-weight: 600;
   padding: 17px 26px;
   box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.25);
+  transition: background-color 0.3s ease, box-shadow 0.3s ease;
+}
+.contactBtn:hover {
+  background-color: var(--color-primary-light);
+  box-shadow: 0 0 8px 0 rgba(0, 0, 0, 0.5);
+}
+
+.contactBtn:last-child {
+  margin-right: 0;
+}
+
+.buttondiv {
+  padding: 20px 0 0 0;
 }
 
 .heroImg {

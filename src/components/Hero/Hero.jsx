@@ -14,16 +14,24 @@ const Hero = () => {
         <h1 className={styles.title}>Hi, Suvankar Here!</h1>
         <h2 className={styles.subtitle}> {text} |</h2>
         <p className={styles.description}>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis
-          eius pariatur fugiat nam. Distinctio veritatis sit officiis unde
-          pariatur fugit quod magni earum temporibus dolor, perspiciatis
-          architecto facere laborum, consectetur ad dolores enim ullam possimus
-          praesentium, repellendus non vero corporis dicta voluptatem. Incidunt
-          id sunt omnis doloribus repudiandae maiores quo.
+          As a Full Stack Developer with a robust command of React, MongoDB,
+          Express.js, Node.js, Tailwind CSS, and Sass, I am on the hunt for a
+          role that not only challenges me but also allows me to put my diverse
+          skill set to good use in driving meaningful societal change. My
+          passion lies in contributing to a team that values collaboration and
+          innovation, where my continuous learning and development can thrive.
         </p>
-        <a href="mailto:myemail@gmail.com" className={styles.contactBtn}>
-          Contact Me
-        </a>
+        <div className={styles.buttondiv}>
+          <a href="mailto:myemail@gmail.com" className={styles.contactBtn}>
+            Contact Me
+          </a>
+          <a
+            href="https://drive.google.com/file/d/1vMKIkJ1XJqjTPmV7mbb0mCzfqll1adru/view?usp=sharing"
+            target="blank"
+            className={styles.contactBtn}>
+            Resume
+          </a>
+        </div>
       </div>
       <img
         src={getImageUrl("hero/heroImage.png")}

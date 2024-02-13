@@ -1,26 +1,26 @@
 [
   {
-    "title": "Project A",
+    "title": "Ecommerce Platform",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "description": "A full-stack ecommerce project with admin pannel and integrated payment gateway for streamlined checkouts.",
+    "skills": ["React", "Express", "Node", "MongoDB"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/dsuvankar/eCommerce"
   },
   {
-    "title": "Project B",
+    "title": "Messenger",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "A chat app built with MERN stack utilizing Socket.IO enabling real-time text and photo sharing between users.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/dsuvankar/chatAPP-MERN"
+  },
+  {
+    "title": "Movie App",
+    "imageSrc": "projects/movix.png",
+    "description": "React/Redux movie app with TMDB integration, featuring genre filters, trending sections, and trailer previews",
     "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
-  },
-  {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://movix-app-lac.vercel.app/",
+    "source": "https://github.com/dsuvankar/movixApp"
   }
 ]
