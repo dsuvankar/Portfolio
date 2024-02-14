@@ -34,7 +34,7 @@ const Hero = () => {
         </div>
       </div>
       <img
-        src={getImageUrl("hero/heroImage.png")}
+        src={getImageUrl("hero/cuteLittleBoy.png")}
         alt="Hero Image"
         className={styles.heroImg}
       />

@@ -1,7 +1,7 @@
 [
   {
     "title": "Ecommerce Platform",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "projects/eCommerce.png",
     "description": "A full-stack ecommerce project with admin pannel and integrated payment gateway for streamlined checkouts.",
     "skills": ["React", "Express", "Node", "MongoDB"],
     "demo": "https://www.example.com",
@@ -9,7 +9,7 @@
   },
   {
     "title": "Messenger",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "projects/chatAppSS.png",
     "description": "A chat app built with MERN stack utilizing Socket.IO enabling real-time text and photo sharing between users.",
     "skills": ["React", "Express", "Node"],
     "demo": "https://www.example.com",
