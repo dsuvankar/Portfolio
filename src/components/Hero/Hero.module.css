@@ -60,6 +60,21 @@
   box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.25);
   transition: background-color 0.3s ease, box-shadow 0.3s ease;
 }
+
+.resumeBtn {
+  text-decoration: none;
+  margin-right: 20px;
+  text-align: center;
+  background-color: #6388c9;
+  color: var(--color-text);
+  border-radius: 100px;
+  font-size: 25px;
+  font-weight: 600;
+  padding: 17px 26px;
+  box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.25);
+  transition: background-color 0.3s ease, box-shadow 0.3s ease;
+}
+
 .contactBtn:hover {
   background-color: var(--color-primary-light);
   box-shadow: 0 0 8px 0 rgba(0, 0, 0, 0.5);
@@ -138,18 +153,10 @@
     font-size: 50px;
     min-height: 60px;
   }
-}
-/* @media screen and (max-width: 1200px) {
-  .container {
-    flex-direction: column-reverse;
-  }
 
-  .content {
-    align-items: center;
-    position: relative;
+  .buttondiv {
+    display: flex;
+    flex-direction: column;
+    row-gap: 1rem;
   }
-  .title {
-    font-size: 50px;
-    min-height: 60px;
-  }
-} */
+}
