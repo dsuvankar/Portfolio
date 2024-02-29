@@ -4,7 +4,7 @@
     "imageSrc": "projects/eCommerce.png",
     "description": "A full-stack ecommerce project with admin pannel and integrated payment gateway for streamlined checkouts.",
     "skills": ["React", "Express", "Node", "MongoDB"],
-    "demo": "https://www.example.com",
+    "demo": "https://youtu.be/eXCZD0WwwtQ",
     "source": "https://github.com/dsuvankar/eCommerce"
   },
   {
@@ -12,7 +12,7 @@
     "imageSrc": "projects/chatAppSS.png",
     "description": "A chat app built with MERN stack utilizing Socket.IO enabling real-time text and photo sharing between users.",
     "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
+    "demo": "https://youtu.be/PCsWvqoLdbE?si=5Jy2HI-rI2BISVIx",
     "source": "https://github.com/dsuvankar/chatAPP-MERN"
   },
   {
