@@ -26,7 +26,7 @@ const Hero = () => {
             Contact Me
           </a>
           <a
-            href="https://drive.google.com/file/d/1vMKIkJ1XJqjTPmV7mbb0mCzfqll1adru/view?usp=sharing"
+            href="https://drive.google.com/file/d/1_7CFbHs1H6cw-95iTD-9Za-BJMWhxjJF/view?usp=sharing"
             target="blank"
             className={styles.contactBtn}>
             Resume
