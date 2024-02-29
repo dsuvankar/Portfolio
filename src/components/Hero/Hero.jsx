@@ -1,5 +1,6 @@
 import React from "react";
 import { getImageUrl } from "../../utils";
+
 import styles from "./Hero.module.css";
 import { useTypewriter, Cursor } from "react-simple-typewriter";
 
@@ -26,11 +27,17 @@ const Hero = () => {
             Contact Me
           </a>
           <a
-            href="https://drive.google.com/file/d/1_7CFbHs1H6cw-95iTD-9Za-BJMWhxjJF/view?usp=sharing"
+            href="../../../assets/hero/SuvankarDas-Resume.pdf"
+            download="SuvankarDas Resume"
             target="blank"
             className={styles.resumeBtn}>
             Resume
           </a>
+          {/* <a
+            href="https://drive.google.com/file/d/1_7CFbHs1H6cw-95iTD-9Za-BJMWhxjJF/view?usp=sharing"
+            target="blank">
+            Resume
+          </a> */}
         </div>
       </div>
       <img
