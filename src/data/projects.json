@@ -1,26 +1,26 @@
 [
   {
-    "title": "Ecommerce Platform",
-    "imageSrc": "projects/eCommerce.png",
-    "description": "A full-stack ecommerce project with admin pannel and integrated payment gateway for streamlined checkouts.",
-    "skills": ["React", "Express", "Node", "MongoDB"],
-    "demo": "https://youtu.be/eXCZD0WwwtQ",
-    "source": "https://github.com/dsuvankar/eCommerce"
+    "title": "Netflix GPT",
+    "imageSrc": "projects/netflixGPTSS.png",
+    "description": "An AI-powered Netflix clone built with React, Tailwind, Firebase, and TMDB's API for recommendations.",
+    "skills": ["React", "GPT-API", "Firebase", "Tailwind"],
+    "demo": "",
+    "source": "https://github.com/dsuvankar/NetflixAI.git"
   },
   {
-    "title": "Messenger",
-    "imageSrc": "projects/chatAppSS.png",
-    "description": "A chat app built with MERN stack utilizing Socket.IO enabling real-time text and photo sharing between users.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://youtu.be/PCsWvqoLdbE?si=5Jy2HI-rI2BISVIx",
-    "source": "https://github.com/dsuvankar/chatAPP-MERN"
+    "title": "AI Trip Planner",
+    "imageSrc": "projects/TripPlannerSS.png",
+    "description": "An AI-powered trip planner built with React and Tailwind, generating custom itineraries via Gemini AI, with Firebase storage.",
+    "skills": ["React", "Tailwind", "GeminiAPI"],
+    "demo": "https://trip-planner-chi.vercel.app/",
+    "source": "https://github.com/dsuvankar/TripPlanner"
   },
   {
-    "title": "Movie App",
-    "imageSrc": "projects/movix.png",
-    "description": "React/Redux movie app with TMDB integration, featuring genre filters, trending sections, and trailer previews",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://movix-app-lac.vercel.app/",
-    "source": "https://github.com/dsuvankar/movixApp"
+    "title": "GameListing App",
+    "imageSrc": "projects/gamelistingAppPhoto.png",
+    "description": "A game listing app which uses React JS and Tailwind, with RAWG API and search functionality.",
+    "skills": ["React", "Tailwind"],
+    "demo": "https://games-listing-app.vercel.app/",
+    "source": "https://github.com/dsuvankar/GamesListingApp.git"
   }
 ]
