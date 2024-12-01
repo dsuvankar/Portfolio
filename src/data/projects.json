@@ -16,12 +16,12 @@
     "source": "https://github.com/dsuvankar/TripPlanner"
   },
   {
-    "title": "Messenger App",
-    "imageSrc": "projects/chatAppSS.png",
+    "title": "ChatterBuzz",
+    "imageSrc": "projects/ChatterBuzz.png",
     "description": "A messenger app where two users can interact with each other and send images",
     "skills": ["React", "Node", "MongoDB", "Express", "JWT", "Websocket"],
     "demo": "hhttps://messenger-app-api.vercel.app/",
-    "source": "https://github.com/dsuvankar/MessengerApp"
+    "source": "https://github.com/dsuvankar/ChatterBuzz"
   },
   {
     "title": "GameListing App",
