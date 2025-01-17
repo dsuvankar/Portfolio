@@ -27,7 +27,7 @@ const Hero = () => {
             Contact Me
           </a>
           <a
-            href="../../../assets/hero/SuvankarDas-Resume.pdf"
+            href="../../../assets/hero/SuvankarCVDec24.pdf"
             download="SuvankarDas Resume"
             target="blank"
             className={styles.resumeBtn}>
