@@ -22,9 +22,10 @@ const Hero = () => {
             Contact Me
           </a>
           <a
-            href="../../../assets/hero/Suvankar_Das_Dev_resume_June.pdf"
+            href={getImageUrl("hero/Suvankar_Das_Dev_resume_June.pdf")}
             download="SuvankarDas Resume"
-            target="blank"
+            target="_blank"
+            rel="noopener noreferrer"
             className={styles.resumeBtn}>
             Resume
           </a>
