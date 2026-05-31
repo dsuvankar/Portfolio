@@ -1,10 +1,18 @@
 [
   {
+    "title": "AI-Powered Microservices Blog Platform",
+    "imageSrc": "projects/blogplatformSS.png",
+    "description": "Architected 3 decoupled microservices (User, Blog, Author) with Docker containerization, a GitHub Actions CI/CD pipeline, and RabbitMQ for asynchronous inter-service messaging.",
+    "skills": ["Next.js", "Node.js", "Express.js", "MongoDB", "Docker", "RabbitMQ", "Redis", "GitHub Actions"],
+    "demo": "https://thethoughtstack.cloud/blogs",
+    "source": "https://github.com/dsuvankar/BlogApp_microservice.git"
+  },
+  {
     "title": "Netflix GPT",
     "imageSrc": "projects/netflixGPTSS.png",
     "description": "An AI-powered Netflix clone built with React, Tailwind, Firebase, and TMDB's API for recommendations.",
     "skills": ["React", "OpenAI-API", "Firebase", "Tailwind"],
-    "demo": "",
+    "demo": "https://netflix-ai-eta.vercel.app/",
     "source": "https://github.com/dsuvankar/NetflixAI.git"
   },
   {
@@ -20,7 +28,7 @@
     "imageSrc": "projects/ChatterBuzz.png",
     "description": "A messenger app where two users can interact with each other and send images",
     "skills": ["React", "Node", "MongoDB", "Express", "JWT", "Websocket"],
-    "demo": "hhttps://messenger-app-api.vercel.app/",
+    "demo": "https://messenger-app-api.vercel.app/",
     "source": "https://github.com/dsuvankar/ChatterBuzz"
   },
   {

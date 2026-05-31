@@ -16,11 +16,20 @@
 
 .projects {
   margin-top: 37px;
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  align-items: center;
-  justify-content: center;
-  gap: 15px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
   width: 100%;
+}
+
+@media screen and (max-width: 1200px) {
+  .projects {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .projects {
+    grid-template-columns: 1fr;
+  }
 }

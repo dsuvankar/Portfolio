@@ -15,15 +15,10 @@ const Hero = () => {
         <h1 className={styles.title}>Hi, Suvankar Here!</h1>
         <h2 className={styles.subtitle}> {text} |</h2>
         <p className={styles.description}>
-          As a Full Stack Developer with a robust command of React, MongoDB,
-          Express.js, Node.js, Tailwind CSS, and Sass, I am on the hunt for a
-          role that not only challenges me but also allows me to put my diverse
-          skill set to good use in driving meaningful societal change. My
-          passion lies in contributing to a team that values collaboration and
-          innovation, where my continuous learning and development can thrive.
+          Full-Stack Developer with nearly 2 years of experience designing, building, and maintaining production-grade web applications in a fast-paced startup environment. Led frontend development of a government-scale civic portal serving over 1.5 lakh registered users. Seeking a full-stack or frontend engineering role to deliver high-impact products within a growth-oriented team.
         </p>
         <div className={styles.buttondiv}>
-          <a href="mailto:myemail@gmail.com" className={styles.contactBtn}>
+          <a href="mailto:iamsuvankar25@gmail.com" className={styles.contactBtn}>
             Contact Me
           </a>
           <a

@@ -1,0 +1,35 @@
+[
+  {
+    "role": "Full-Stack Developer",
+    "organisation": "Vyoma Innovus Global Pvt Ltd",
+    "startDate": "Feb 2025",
+    "endDate": "Present",
+    "experiences": [
+      "Engineered the West Bengal government portal for TOTO (electric rickshaw) driver registration.",
+      "Delivered a platform that has processed over 1.5 lakh driver registrations.",
+      "Served as the sole frontend developer for the vehicle registration portal and made backend contributions to the PP Office platform."
+    ],
+    "imageSrc": "history/Vyoma.png"
+  },
+  {
+    "role": "Frontend Developer",
+    "organisation": "Freelance",
+    "startDate": "Sep 2024",
+    "endDate": "Dec 2024",
+    "experiences": [
+      "Collaborated within a cross-functional team to build a fruits and vegetables e-commerce platform.",
+      "Spearheaded the state management refactor, migrating the application from localStorage and Context API to Redux."
+    ],
+    "imageSrc": "history/Freelancer.png"
+  },
+  {
+    "role": "Freelance Content Writer",
+    "organisation": "Self-employed",
+    "startDate": "Jan 2020",
+    "endDate": "Aug 2024",
+    "experiences": [
+      "Authored 1000+ articles across healthcare, tourism, and technical products for diverse clients."
+    ],
+    "imageSrc": "history/Freelancer.png"
+  }
+]
